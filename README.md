@@ -31,12 +31,12 @@ To run the notebook, you will need the following libraries:
 - pandas
 - matplotlib
 - yfinance (for fetching stock data)
-- scipy
+- seaborn
 
 These can be installed using pip:
 
 ```bash
-pip install numpy pandas matplotlib yfinance scipy
+pip install numpy pandas matplotlib yfinance seaborn
 ```
 
 ## Installation
@@ -56,10 +56,10 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Open the Jupyter Notebook:
+1. Open the Notebook:
 
 ```bash
-jupyter notebook MPT_Portfolio_optimization.ipynb
+MPT_Portfolio_optimization.ipynb
 ```
 
 2. Follow the instructions in the notebook to load the stock data, calculate returns, and perform portfolio optimization.
