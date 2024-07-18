@@ -9,7 +9,6 @@ This repository contains a notebook that demonstrates the use of Modern Portfoli
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
@@ -66,10 +65,6 @@ jupyter notebook MPT_Portfolio_optimization.ipynb
 2. Follow the instructions in the notebook to load the stock data, calculate returns, and perform portfolio optimization.
 
 The notebook includes detailed explanations and code comments to help you understand the steps involved in the portfolio optimization process.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
